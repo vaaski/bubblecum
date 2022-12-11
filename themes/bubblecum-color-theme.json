@@ -68,11 +68,11 @@
     "list.focusBackground": "#dfdfdf",
     "list.focusForeground": "#D73C7D",
     // editor
-    "editor.lineHighlightBackground": "#f0ecd0",
-    "editor.lineHighlightBorder": "#f0ecd0",
+    "editor.lineHighlightBackground": "#d8eaf1",
+    "editor.lineHighlightBorder": "#d8eaf1",
     "editorLineNumber.foreground": "#babbbc",
     "editorLineNumber.activeForeground": "#000000",
-    "editor.selectionBackground": "#fed442",
+    "editor.selectionBackground": "#a4dff6",
     // input
     "input.border": "#b2b2b2",
     "input.background": "#EFF0F0",
