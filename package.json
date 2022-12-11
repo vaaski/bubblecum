@@ -12,6 +12,11 @@
   "categories": [
     "Themes"
   ],
+  "galleryBanner": {
+    "color": "#D73C7D",
+    "theme": "dark"
+  },
+  "icon": "icon.png",
   "contributes": {
     "themes": [
       {
