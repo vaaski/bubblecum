@@ -114,7 +114,7 @@
     {
       "scope": ["constant", "entity.name.constant", "variable.other.constant", "variable.language"],
       "settings": {
-        "foreground": "#008BC7"
+        "foreground": "#006AC7"
       },
       "name": "Constant"
     },
@@ -183,14 +183,14 @@
     {
       "scope": ["support"],
       "settings": {
-        "foreground": "#008BC7"
+        "foreground": "#006AC7"
       },
       "name": "Support"
     },
     {
       "scope": ["meta.property-name"],
       "settings": {
-        "foreground": "#008BC7"
+        "foreground": "#006AC7"
       }
     },
     {
@@ -262,7 +262,7 @@
     {
       "scope": ["string variable"],
       "settings": {
-        "foreground": "#008BC7"
+        "foreground": "#006AC7"
       },
       "name": "String variable"
     },
@@ -296,21 +296,21 @@
     {
       "scope": ["support.constant"],
       "settings": {
-        "foreground": "#008BC7"
+        "foreground": "#006AC7"
       },
       "name": "Support.constant"
     },
     {
       "scope": ["support.variable"],
       "settings": {
-        "foreground": "#008BC7"
+        "foreground": "#006AC7"
       },
       "name": "Support.variable"
     },
     {
       "scope": ["meta.module-reference"],
       "settings": {
-        "foreground": "#008BC7"
+        "foreground": "#006AC7"
       },
       "name": "meta module-reference"
     },
@@ -325,7 +325,7 @@
       "scope": ["markup.heading", "markup.heading entity.name"],
       "settings": {
         "fontStyle": "bold",
-        "foreground": "#008BC7"
+        "foreground": "#006AC7"
       },
       "name": "Markup.heading"
     },
@@ -355,7 +355,7 @@
     {
       "scope": ["markup.raw"],
       "settings": {
-        "foreground": "#008BC7"
+        "foreground": "#006AC7"
       },
       "name": "Markup.raw"
     },
@@ -382,7 +382,7 @@
     {
       "scope": ["markup.ignored", "markup.untracked"],
       "settings": {
-        "foreground": "#008BC7"
+        "foreground": "#006AC7"
       }
     },
     {
@@ -395,14 +395,14 @@
     {
       "scope": ["meta.diff.header"],
       "settings": {
-        "foreground": "#008BC7"
+        "foreground": "#006AC7"
       }
     },
     {
       "scope": ["meta.separator"],
       "settings": {
         "fontStyle": "bold",
-        "foreground": "#008BC7"
+        "foreground": "#006AC7"
       },
       "name": "Meta.separator"
     },
@@ -410,7 +410,7 @@
       "name": "Output",
       "scope": ["meta.output"],
       "settings": {
-        "foreground": "#008BC7"
+        "foreground": "#006AC7"
       }
     },
     {
@@ -460,7 +460,7 @@
     {
       "scope": ["meta.function-call support.function", "meta.function-call entity.name.function"],
       "settings": {
-        "foreground": "#008BC7"
+        "foreground": "#006AC7"
       }
     },
     {
