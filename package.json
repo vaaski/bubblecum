@@ -1,7 +1,7 @@
 {
   "name": "bubblecum",
   "displayName": "bubblecum",
-  "description": "Based on GitHub Light Grey with a bubblegummy flavor to it",
+  "description": "a theme based on github light grey with a bubblegummy flavor to it",
   "version": "0.0.1",
   "engines": {
     "vscode": "^1.74.0"
