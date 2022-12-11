@@ -51,6 +51,7 @@
     "tab.inactiveBackground": "#EFF0F0",
     "tab.border": "#EFF0F0",
     "tab.activeBorder": "#D73C7D",
+    "tab.activeModifiedBorder": "#D73C7D",
     // side bars
     "sideBar.border": "#EFF0F0",
     "sideBar.background": "#EFF0F0",
