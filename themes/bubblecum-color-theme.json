@@ -101,7 +101,13 @@
     "editorSuggestWidget.highlightForeground": "#D73C7D",
     "editorSuggestWidget.selectedBackground": "#e1e1e1",
     // panel
-    "panel.border": "#D73C7D"
+    "panel.border": "#D73C7D",
+    // brackets
+    "editorBracketHighlight.foreground1": "#3294b4",
+    "editorBracketHighlight.foreground2": "#777cd7",
+    "editorBracketHighlight.foreground3": "#cc7acc",
+    "editorBracketHighlight.foreground4": "#da73bd",
+    "editorBracketHighlight.foreground5": "#4eb1b4",
   },
   "tokenColors": [
     {
