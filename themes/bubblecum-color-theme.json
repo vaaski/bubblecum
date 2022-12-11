@@ -40,8 +40,8 @@
     "statusBar.foreground": "#000000",
     "statusBar.noFolderBackground": "#EFF0F0",
     "statusBar.noFolderForeground": "#000000",
-    "statusBar.debuggingBackground": "#EFF0F0",
-    "statusBar.debuggingForeground": "#000000",
+    "statusBar.debuggingBackground": "#D73C7D",
+    "statusBar.debuggingForeground": "#EFF0F0",
     // editor groups and tabs
     "editorGroup.border": "#EFF0F0",
     "editorGroupHeader.tabsBackground": "#EFF0F0",
