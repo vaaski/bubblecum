@@ -4,6 +4,7 @@
   "description": "a theme based on github light grey with a bubblegummy flavor to it",
   "repository": "https://github.com/vaaski/bubblecum",
   "author": "vaaski <admin@vaa.ski>",
+  "publisher": "vaaski",
   "version": "0.0.1",
   "engines": {
     "vscode": "^1.74.0"
