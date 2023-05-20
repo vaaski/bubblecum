@@ -52,7 +52,7 @@
     },
     { "scope": "constant.regexp", "settings": { "foreground": "#646695" } },
     { "scope": "entity.name.tag", "settings": { "foreground": "#569cd6" } },
-    { "scope": "entity.name.tag.css", "settings": { "foreground": "#d7ba7d" } },
+    { "scope": "entity.name.tag.css", "settings": { "foreground": "#e4c1f3" } },
     { "scope": "entity.other.attribute-name", "settings": { "foreground": "#9cdcfe" } },
     {
       "scope": [
@@ -65,7 +65,7 @@
         "source.css.less entity.other.attribute-name.id",
         "entity.other.attribute-name.scss"
       ],
-      "settings": { "foreground": "#d7ba7d" }
+      "settings": { "foreground": "#e4c1f3" }
     },
     { "scope": "invalid", "settings": { "foreground": "#f44747" } },
     { "scope": "markup.underline", "settings": { "fontStyle": "underline" } },

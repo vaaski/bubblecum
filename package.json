@@ -20,19 +20,19 @@
   "contributes": {
     "themes": [
       {
-        "label": "Bubblecum Light Modern",
+        "label": "Bubblecum Modern Dark",
+        "uiTheme": "vs-dark",
+        "path": "./themes/dark-modern.json"
+      },
+      {
+        "label": "Bubblecum Modern Light",
         "uiTheme": "vs",
         "path": "./themes/light-modern.json"
       },
       {
-        "label": "bubblecum",
+        "label": "Bubblecum Legacy Light",
         "uiTheme": "vs",
         "path": "./themes/bubblecum-color-theme.json"
-      },
-      {
-        "label": "Bubblecum Dark Modern",
-        "uiTheme": "vs-dark",
-        "path": "./themes/dark-modern.json"
       }
     ]
   }
