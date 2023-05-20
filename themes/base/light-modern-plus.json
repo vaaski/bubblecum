@@ -12,7 +12,7 @@
         "source.powershell variable.other.member",
         "entity.name.operator.custom-literal"
       ],
-      "settings": { "foreground": "#795E26" }
+      "settings": { "foreground": "#b62251" }
     },
     {
       "name": "Types declaration and references",
@@ -150,8 +150,8 @@
   "semanticHighlighting": true,
   "semanticTokenColors": {
     "newOperator": "#AF00DB",
-    "stringLiteral": "#a31515",
-    "customLiteral": "#795E26",
-    "numberLiteral": "#098658"
+    "stringLiteral": "#a31567",
+    "customLiteral": "#b62251",
+    "numberLiteral": "#096786"
   }
 }
