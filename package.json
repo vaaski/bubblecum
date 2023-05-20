@@ -1,11 +1,11 @@
 {
   "name": "bubblecum",
   "displayName": "bubblecum",
-  "description": "a theme based on github light grey with a bubblegummy flavor to it",
+  "description": "a theme based on the modern default with a bubblegummy flavor to it",
   "repository": "https://github.com/vaaski/bubblecum",
   "author": "vaaski <admin@vaa.ski>",
   "publisher": "vaaski",
-  "version": "1.0.1",
+  "version": "2.0.0",
   "engines": {
     "vscode": "^1.74.0"
   },
